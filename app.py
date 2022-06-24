@@ -1,5 +1,4 @@
 from flask import Flask, request, jsonify
-from jinia2.utils import markupsafe
 from flask.logging import create_logger
 import logging
 
